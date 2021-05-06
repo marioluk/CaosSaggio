@@ -1,2 +1,2 @@
 # CaosSaggio
-una nuova repository
+Algoritmo di trading automatizzato basato sulla teoria del Caos sviluppata da Bill Williams
